@@ -1,3 +1,10 @@
+# @Author: GuilaumeF
+# @Date:   2016-10-14 11:20:28
+# @Email:  guillaume4favre@gmail.com
+# @Last modified by:   GuilaumeF
+# @Last modified time: 2016-12-13 14:19:20
+
+
 # coding: utf8
 
 # This file is part of Scapy
@@ -16,7 +23,9 @@
 
 # Copyright (C) 2016 Arthur Gervais, Ken LE PRADO, Sébastien Mainand
 
-from scapy.all import *
+from scapy.packet import *
+from scapy.fields import *
+from scapy.layers.inet import *
 
 # TODO: implement serial specific function codes
 
