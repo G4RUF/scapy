@@ -1,10 +1,3 @@
-# @Author: GuilaumeF
-# @Date:   2016-10-14 11:20:28
-# @Email:  guillaume4favre@gmail.com
-# @Last modified by:   GuilaumeF
-# @Last modified time: 2016-12-13 14:19:20
-
-
 # coding: utf8
 
 # This file is part of Scapy
